@@ -132,7 +132,7 @@ router.post("/",(req,res)=>{
  * /{id}:
  *  put:
  *    summary: Update the Profile by its ID
- *    tags: [UserProfile]
+ *    tags: [info]
  *    parameters:
  *      - in: path
  *        name: id
